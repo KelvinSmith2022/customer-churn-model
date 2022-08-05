@@ -1,5 +1,5 @@
 # customer-churn-model
-1. Extract file from CSV file 
+1. Extract file from CSV file located in dataset folder
 2. Performed data curation activites ( clean, evaluate and preserve )
 3. Perform statistical analysis and applied visualization techniques
 4. Feature extraction ( seprated numerical features from categorical features)
